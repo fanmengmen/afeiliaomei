@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11   CMakeFiles/CodeCraft-2019.dir/graph.cpp.o CMakeFiles/CodeCraft-2019.dir/main.cpp.o  -o ../bin/CodeCraft-2019 -rdynamic 

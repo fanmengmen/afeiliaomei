@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gf/桌面/huawei_code_challenge/SDK/SDK_C++/CodeCraft-2019/graphy_dataStructure/graph.cpp
+graph.hpp
+/home/gf/桌面/huawei_code_challenge/SDK/SDK_C++/CodeCraft-2019/graphy_dataStructure/graph.hpp
+
+/home/gf/桌面/huawei_code_challenge/SDK/SDK_C++/CodeCraft-2019/graphy_dataStructure/graph.hpp
+iostream
+-
+
+/home/gf/桌面/huawei_code_challenge/SDK/SDK_C++/CodeCraft-2019/graphy_dataStructure/main.cpp
+graph.hpp
+/home/gf/桌面/huawei_code_challenge/SDK/SDK_C++/CodeCraft-2019/graphy_dataStructure/graph.hpp
+
