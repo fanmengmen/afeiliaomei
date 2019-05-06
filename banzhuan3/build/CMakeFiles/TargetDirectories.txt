@@ -1,0 +1,3 @@
+/home/gf/banzhuan3/build/CMakeFiles/edit_cache.dir
+/home/gf/banzhuan3/build/CMakeFiles/rebuild_cache.dir
+/home/gf/banzhuan3/build/CMakeFiles/test.dir

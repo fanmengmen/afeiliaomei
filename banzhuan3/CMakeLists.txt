@@ -1,0 +1,5 @@
+project(test)
+add_executable(test banzhuan3.cpp)
+add_definitions(-std=c++11)
+find_package(OpenCV REQUIRED)
+target_link_libraries(test ${OpenCV_LIBS})
